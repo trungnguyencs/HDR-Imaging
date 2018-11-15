@@ -37,6 +37,6 @@ Raw images:
 ![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/8.JPG "Title")
 ![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/12.JPG "Title")
 
-Result:
+HDR Image Result:
 
 ![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr_fusion_mertens.jpg "Title")
