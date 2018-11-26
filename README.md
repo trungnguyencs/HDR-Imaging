@@ -2,9 +2,7 @@
 An implementation of High-dynamic-range (HDR) imaging technique. First project for Fall 2018 CE264-Computer Vision at UC Santa Cruz
 
 ## Motivation
-First project for Fall 2018 CE264-Computer Vision at UC Santa Cruz. Implemented Camera Radiometric Calibration, HDR system using two
-composition algorithms and geneartion fine tone mapped image. Histograms are also plotted for each of the RG and B channels respectively 
-for analysis of changes in pixel values.
+Implemented Camera Radiometric Calibration and HDR system using two composition algorithms and geneartion fine tone mapped image. Histograms are also plotted for each of the RG and B channels respectively for analysis of changes in pixel values.
  
 
 ## OS, Libraries and Language
@@ -29,7 +27,7 @@ The scripts name and their functionality are decribed below :
 1. CE264HDR             : parent directory
 2. PictureStackedImages : Consist of three images used for generation of HDR image 
 3. CalibImages          : Consist of 14 images taken at different exposure time and is used for radiometry calibration 
-4. ToneMappedImages      : Final tonned mapped image are saved in this folder
+4. ToneMappedImages     : Final tonned mapped image are saved in this folder
 
 Raw images:
 
