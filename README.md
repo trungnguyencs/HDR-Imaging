@@ -29,6 +29,8 @@ The scripts name and their functionality are decribed below :
 3. CalibImages          : Consist of 14 images taken at different exposure time and is used for radiometry calibration 
 4. ToneMappedImages     : Final tonned mapped image are saved in this folder
 
+## Results 
+
 Raw images:
 
 ![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/5.JPG "Title")
