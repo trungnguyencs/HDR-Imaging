@@ -32,7 +32,9 @@ The scripts name and their functionality are decribed below :
 ## Results 
 
 Raw images:
-Left image:
+
+![alt-text-1](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "left image") ![alt-text-2](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "right image")
+
 ![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "Title")
 Right image:
 ![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg "Title")
