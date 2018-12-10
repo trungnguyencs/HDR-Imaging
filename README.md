@@ -1,4 +1,4 @@
-## CE264HDR
+## HDR Imaging
 An implementation of High-dynamic-range (HDR) imaging technique. First project for Fall 2018 CE264-Computer Vision at UC Santa Cruz
 
 ## Motivation
