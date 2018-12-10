@@ -35,6 +35,10 @@ Raw images:
 
 ![alt-text-1](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "left image") ![alt-text-2](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "right image")
 
+<img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg" width="425"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg" width="425"/> 
+
+
+
 ![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "Title")
 Right image:
 ![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg "Title")
