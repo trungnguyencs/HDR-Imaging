@@ -32,10 +32,10 @@ The scripts name and their functionality are decribed below :
 ## Results 
 
 Raw images:
-
-![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/5.JPG "Title")
-![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/8.JPG "Title")
-![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/12.JPG "Title")
+Left image:
+![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg "Title")
+Right image:
+![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg "Title")
 
 HDR Image Result:
 * Method 1:
