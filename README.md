@@ -29,13 +29,19 @@ The scripts name and their functionality are decribed below :
 3. CalibImages          : Consist of 14 images taken at different exposure time and is used for radiometry calibration 
 4. ToneMappedImages     : Final tonned mapped image are saved in this folder
 
+
 ## Results 
 
-* Left & right image:
-<img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg" width="425"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg" width="425"/> 
-* Feature matching:
-![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/feature_matching.png "Title")
-* Epilines:
-![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/epilines.png "Title")
-* Projection:
-<img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/projection1.png" width="425"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/projection2.png" width="425"/> 
+Raw images:
+
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/12.JPG "Title")
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/8.JPG "Title")
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/5.JPG "Title")
+
+HDR Image Result:
+* Method 1:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr1.jpg "Title")
+* Method 2:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr2.jpg "Title")
+* Method 3:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr_fusion_mertens.jpg "Title")
