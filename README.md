@@ -1,5 +1,5 @@
 ## HDR Imaging
-An implementation of High-dynamic-range (HDR) imaging technique. First project for Fall 2018 CE264-Computer Vision at UC Santa Cruz
+An implementation of High-dynamic-range (HDR) imaging technique.
 
 ## Motivation
 Implemented Camera Radiometric Calibration and HDR system using two composition algorithms and geneartion fine tone mapped image. Histograms are also plotted for each of the RG and B channels respectively for analysis of changes in pixel values.
